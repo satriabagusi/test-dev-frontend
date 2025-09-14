@@ -13,4 +13,4 @@ Saya menggunakan bantuan ChatGPT pada soal Nomor 9 dengan prompt sebagai berikut
 
 Untuk Jawaban Nomor 1 berada di dalam file /src/utils/animals.js
 
-Untuk Jawaban Nomor 2 sampai 8 berada di file /src/App.jsx
+Untuk Jawaban Nomor 2 sampai 9 berada di file /src/App.jsx
